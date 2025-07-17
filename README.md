@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hi I'm Oliver. im just someone who gets that itch to program and sometimes makes things usefull.
 
+Experience with javascript, Java, python and dipping my toes in rust
+
+### projects im activly working on right now:
+
+[EasyGui](https://github.com/OliverHesse/EasyGui)
+- a minecraft mod that tries to streamline the process of creating GUI!
+Ascension (currently private)
+- a mod that aims to bring the experience of cultivation to minecraft
 <!--
 **OliverHesse/OliverHesse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
