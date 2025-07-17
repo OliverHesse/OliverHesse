@@ -1,6 +1,5 @@
-## Hi I'm Oliver. im just someone who gets that itch to program and sometimes makes things usefull.
-
-Experience with javascript, Java, python and dipping my toes in rust
+Hi I'm Oliver. im just someone who gets that itch to program and sometimes makes things usefull.
+I am experienced with javascript, Java, python and dipping my toes in rust
 
 ### projects im activly working on right now:
 
