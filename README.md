@@ -7,7 +7,7 @@ I am experienced with javascript, Java, python and dipping my toes in rust
 [EasyGui](https://github.com/OliverHesse/EasyGui)
 - a minecraft mod that tries to streamline the process of creating GUI!
 
-Ascension (currently private)
+Ascension (currently private. discord for sneak peeks: [Jade Project](https://discord.gg/YY9pZpeX))
 - a mod that aims to bring the experience of cultivation to minecraft
 <!--
 **OliverHesse/OliverHesse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
