@@ -1,6 +1,6 @@
 Hi I'm Oliver. im just someone who gets that itch to program and sometimes makes usefull things.
 
-I am experienced with JavaScript, Java, and Python. I have some experience with Kotlin and C#, and I am currently exploring Rust and C++
+I am experienced with JavaScript, Java, and Python. I have some experience with Kotlin and C#, and I am dipping my toes in Rust and C++
 
 ### projects I am activly working on right now:
 
