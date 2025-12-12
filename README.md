@@ -11,4 +11,4 @@ I am experienced with JavaScript, Java, and Python. I have some experience with 
 - a mod that aims to bring the experience of cultivation to minecraft. currently in alpha
 
 [Formation Arrays](https://github.com/OliverHesse/Formation-Arrays)
-- a mod that brings formations to minecraft. whilst it will be part of the official Ascension experience it will be its own standalone mod<br> so any developers working on cultivation/xianxia mods can use it
+- a mod that brings formations to minecraft. while it will be part of the official Ascension experience it will be its own standalone mod<br> so any developers working on cultivation/xianxia mods can use it
